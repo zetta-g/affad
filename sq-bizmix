@@ -1,0 +1,10 @@
+[
+  {
+    "image": "https://example.com/ad1.jpg",
+    "link": "https://advertiser.com/ad1"
+  },
+  {
+    "image": "https://example.com/ad2.jpg",
+    "link": "https://advertiser.com/ad2"
+  }
+]
