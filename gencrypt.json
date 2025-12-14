@@ -581,240 +581,6 @@
 "target": "",
 "restrict": "RU, IR, KP, SY, VE, BY, MM, ZW, CU, SD, LB, YE, LY, SO, IQ, AF, NI, HT, CD, CF, SS, ML, BI, ER"
   },
-    {
-"image": "https://affiliate.ledger.com/image/850/420/Default",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "",
-"restrict": "RU, IR, KP, SY, VE, BY, MM, ZW, CU, SD, LB, YE, LY, SO, IQ, AF, NI, HT, CD, CF, SS, ML, BI, ER"
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Portuguese",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "PT, BR, AO, MZ, GW, TL, CV, ST, GQ, MO",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Japanese",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "JP",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Turkish",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "TR, CY",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Chinese",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "CN, TW, SG, MO, HK",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/German",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "DE, AT, CH, LI, LU, BE",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/French",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "FR, BE, CH, CA, LU, MC, CD, CI, CM, MG, SN, ML, NE, BF, BJ, TG, RW, BI, DJ, GA, GN, HT, CF, TD, CG, RE, MQ, GP, GF, PF, NC, YT, PM, WF, BL, MF",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Italian",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "IT, CH, SM, VA, MT",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Russian",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "KZ, KG, TJ, MD, UA",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Arabic",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "SA, EG, DZ, IQ, MA, TN, JO, OM, KW, MR, AE, PS, BH, QA, DJ, KM, TD",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Korean",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "KR",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Dutch",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "NL, BE, SR, AW, CW, SX, BQ",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Spanish",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
-"restrict": ""
-  }
-    {
-"image": "https://affiliate.ledger.com/image/850/420/Default",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "",
-"restrict": "RU, IR, KP, SY, VE, BY, MM, ZW, CU, SD, LB, YE, LY, SO, IQ, AF, NI, HT, CD, CF, SS, ML, BI, ER"
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Portuguese",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "PT, BR, AO, MZ, GW, TL, CV, ST, GQ, MO",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Japanese",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "JP",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Turkish",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "TR, CY",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Chinese",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "CN, TW, SG, MO, HK",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/German",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "DE, AT, CH, LI, LU, BE",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/French",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "FR, BE, CH, CA, LU, MC, CD, CI, CM, MG, SN, ML, NE, BF, BJ, TG, RW, BI, DJ, GA, GN, HT, CF, TD, CG, RE, MQ, GP, GF, PF, NC, YT, PM, WF, BL, MF",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Italian",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "IT, CH, SM, VA, MT",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Russian",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "KZ, KG, TJ, MD, UA",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Arabic",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "SA, EG, DZ, IQ, MA, TN, JO, OM, KW, MR, AE, PS, BH, QA, DJ, KM, TD",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Korean",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "KR",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Dutch",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "NL, BE, SR, AW, CW, SX, BQ",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Spanish",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
-"restrict": ""
-  }
-    {
-"image": "https://affiliate.ledger.com/image/850/420/Default",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "",
-"restrict": "RU, IR, KP, SY, VE, BY, MM, ZW, CU, SD, LB, YE, LY, SO, IQ, AF, NI, HT, CD, CF, SS, ML, BI, ER"
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Portuguese",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "PT, BR, AO, MZ, GW, TL, CV, ST, GQ, MO",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Japanese",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "JP",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Turkish",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "TR, CY",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Chinese",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "CN, TW, SG, MO, HK",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/German",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "DE, AT, CH, LI, LU, BE",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/French",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "FR, BE, CH, CA, LU, MC, CD, CI, CM, MG, SN, ML, NE, BF, BJ, TG, RW, BI, DJ, GA, GN, HT, CF, TD, CG, RE, MQ, GP, GF, PF, NC, YT, PM, WF, BL, MF",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Italian",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "IT, CH, SM, VA, MT",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Russian",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "KZ, KG, TJ, MD, UA",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Arabic",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "SA, EG, DZ, IQ, MA, TN, JO, OM, KW, MR, AE, PS, BH, QA, DJ, KM, TD",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Korean",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "KR",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Dutch",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "NL, BE, SR, AW, CW, SX, BQ",
-"restrict": ""
-  },
-  {
-"image": "https://affiliate.ledger.com/image/850/420/Spanish",
-"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
-"target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
-"restrict": ""
-  }
   {
 "image": "https://affiliate.ledger.com/image/850/420/Default",
 "link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
@@ -892,8 +658,8 @@
 "link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
 "target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
 "restrict": ""
-  }
-    {
+  },
+  {
 "image": "https://affiliate.ledger.com/image/850/420/Default",
 "link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
 "target": "",
@@ -970,8 +736,8 @@
 "link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
 "target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
 "restrict": ""
-  }
-    {
+  },
+  {
 "image": "https://affiliate.ledger.com/image/850/420/Default",
 "link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
 "target": "",
@@ -1048,8 +814,8 @@
 "link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
 "target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
 "restrict": ""
-  }
-    {
+  },
+  {
 "image": "https://affiliate.ledger.com/image/850/420/Default",
 "link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
 "target": "",
@@ -1126,8 +892,242 @@
 "link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
 "target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
 "restrict": ""
-  }
-    {
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Default",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "",
+"restrict": "RU, IR, KP, SY, VE, BY, MM, ZW, CU, SD, LB, YE, LY, SO, IQ, AF, NI, HT, CD, CF, SS, ML, BI, ER"
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Portuguese",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "PT, BR, AO, MZ, GW, TL, CV, ST, GQ, MO",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Japanese",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "JP",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Turkish",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "TR, CY",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Chinese",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "CN, TW, SG, MO, HK",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/German",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "DE, AT, CH, LI, LU, BE",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/French",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "FR, BE, CH, CA, LU, MC, CD, CI, CM, MG, SN, ML, NE, BF, BJ, TG, RW, BI, DJ, GA, GN, HT, CF, TD, CG, RE, MQ, GP, GF, PF, NC, YT, PM, WF, BL, MF",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Italian",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "IT, CH, SM, VA, MT",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Russian",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "KZ, KG, TJ, MD, UA",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Arabic",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "SA, EG, DZ, IQ, MA, TN, JO, OM, KW, MR, AE, PS, BH, QA, DJ, KM, TD",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Korean",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "KR",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Dutch",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "NL, BE, SR, AW, CW, SX, BQ",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Spanish",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Default",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "",
+"restrict": "RU, IR, KP, SY, VE, BY, MM, ZW, CU, SD, LB, YE, LY, SO, IQ, AF, NI, HT, CD, CF, SS, ML, BI, ER"
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Portuguese",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "PT, BR, AO, MZ, GW, TL, CV, ST, GQ, MO",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Japanese",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "JP",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Turkish",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "TR, CY",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Chinese",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "CN, TW, SG, MO, HK",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/German",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "DE, AT, CH, LI, LU, BE",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/French",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "FR, BE, CH, CA, LU, MC, CD, CI, CM, MG, SN, ML, NE, BF, BJ, TG, RW, BI, DJ, GA, GN, HT, CF, TD, CG, RE, MQ, GP, GF, PF, NC, YT, PM, WF, BL, MF",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Italian",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "IT, CH, SM, VA, MT",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Russian",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "KZ, KG, TJ, MD, UA",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Arabic",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "SA, EG, DZ, IQ, MA, TN, JO, OM, KW, MR, AE, PS, BH, QA, DJ, KM, TD",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Korean",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "KR",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Dutch",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "NL, BE, SR, AW, CW, SX, BQ",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Spanish",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Default",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "",
+"restrict": "RU, IR, KP, SY, VE, BY, MM, ZW, CU, SD, LB, YE, LY, SO, IQ, AF, NI, HT, CD, CF, SS, ML, BI, ER"
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Portuguese",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "PT, BR, AO, MZ, GW, TL, CV, ST, GQ, MO",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Japanese",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "JP",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Turkish",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "TR, CY",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Chinese",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "CN, TW, SG, MO, HK",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/German",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "DE, AT, CH, LI, LU, BE",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/French",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "FR, BE, CH, CA, LU, MC, CD, CI, CM, MG, SN, ML, NE, BF, BJ, TG, RW, BI, DJ, GA, GN, HT, CF, TD, CG, RE, MQ, GP, GF, PF, NC, YT, PM, WF, BL, MF",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Italian",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "IT, CH, SM, VA, MT",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Russian",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "KZ, KG, TJ, MD, UA",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Arabic",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "SA, EG, DZ, IQ, MA, TN, JO, OM, KW, MR, AE, PS, BH, QA, DJ, KM, TD",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Korean",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "KR",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Dutch",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "NL, BE, SR, AW, CW, SX, BQ",
+"restrict": ""
+  },
+  {
+"image": "https://affiliate.ledger.com/image/850/420/Spanish",
+"link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
+"target": "ES, MX, CO, AR, PE, CL, EC, GT, BO, DO, HN, PY, SV, CR, PA, UY, GQ, PR, BZ",
+"restrict": ""
+  },
+  {
 "image": "https://affiliate.ledger.com/image/850/420/Default",
 "link": "https://shop.ledger.com/pages/ledger-nano-s-plus/?r=b3806d2d3103",
 "target": "",
